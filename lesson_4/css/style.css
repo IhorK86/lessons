@@ -1,0 +1,73 @@
+@import url("reset.css");
+* {
+   color: red;
+}
+
+div {
+   color: brown;
+}
+
+p {
+   color: blue;
+}
+
+a {
+   color: bisque;
+}
+
+li {
+   color: aquamarine;
+}
+
+.kigservice {
+   color: yellowgreen;
+}
+
+#info-early {
+   color: yellow;
+}
+
+div.text {
+color: goldenrod;
+}
+
+.acquisition
+.hetmanstvo {
+   color: royalblue;
+}
+
+.text.start {
+   color: aqua;
+}
+
+.text p {
+   color: red;
+}
+
+.acquisition h3 {
+   color: gold;
+}
+
+.aboutparasha * {
+   color: silver;
+}
+
+.die > p {
+   color: green;
+}
+
+.early-years ~ h3 {
+   color: aqua;
+}
+
+.finish + p {
+   color: black;
+}
+
+[class*="__container"] {
+	color: red;
+}
+
+#list .lifirst {
+   color: pink;
+}
