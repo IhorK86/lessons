@@ -1,0 +1,137 @@
+
+/* @import url("fonts.css"); */
+
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,regular,600,700&display=swap");
+
+@import url("reset.css");
+
+/* CSS-властивості шрифтів */
+
+body {
+   font-family: "Inter", sans-serif;
+   font-size: 16px;
+   color: #3C4242;
+}
+
+.text p {
+   line-height: 1.4;
+}
+
+.title,
+.subtitle {
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   white-space: nowrap;
+}
+
+.title {
+   font-size: 40px;
+   color: #8A33FD;
+   line-height: 1.8;
+   text-transform: capitalize;
+   letter-spacing: 4px;
+      }
+
+footer {
+   text-align: center;
+   text-decoration: overline;
+   text-transform: uppercase;
+}
+
+#powerstation {
+   text-align: justify;
+}
+
+.subtitle {
+   font-size: 20px;
+   color: #8A33FD;
+line-height: 1.6;
+}
+
+.content-list,
+.content-item {
+   font-weight: 600;
+   line-height: 1.5;
+   text-decoration: underline;
+}
+
+.content-list {
+   color: #a52a2a;
+}
+
+.content-item {
+   color: #008006;
+}
+
+#stationbrand {
+   text-decoration: line-through;
+}
+
+#modelcapaciti {
+   text-shadow: 3px 3px 2px #761010;
+}
+
+#moduls {
+   text-shadow: 2px 2px 5px #000, 5px -2px 10px rgb(255, 81, 0);
+}
+
+.header-block > p {
+   font-style: oblique;
+   line-height: 2;
+}
+
+/* ДЗ Figma */
+
+.figma p,
+.figma ul,
+.figma ol {
+font-family: "Inter", sans-serif;
+color: #7D7D7D;
+font-size: 18px;
+line-height: 26.31px;
+}
+
+.figma p {
+   font-weight: 400;
+   }
+
+.figma ul,
+.figma ol {
+   font-weight: 500;
+   }
+
+.subtitle-figma,
+.subsubtitle-figma,
+.subtitle-pi {
+   font-family: "Poppins", sans-serif;
+   }
+   
+.subtitle-figma,
+.subsubtitle-figma {
+   font-weight: 600;
+}
+
+.subtitle-figma {
+color: #37393F;
+font-size: 30px;
+line-height: 38.10px;
+text-transform: capitalize;
+}
+
+.subsubtitle-figma {
+   color: #6B77E5;
+   font-size: 20px;
+   line-height: 25.40px;
+}
+
+.subtitle-pi {
+   color: #37393F;
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 50.80px;
+   text-transform: capitalize;
+}
+
+
