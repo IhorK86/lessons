@@ -1,0 +1,157 @@
+
+/* @import url("fonts.css"); */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap');
+
+@import url("reset.css");
+
+
+/* Властивості блоків */
+
+body {
+	font-family: "Inter", sans-serif;
+	font-size: 18px; 
+	color: #7d7d7d;
+}
+
+.model-1 {
+   max-width: 692px;
+	margin: 0 auto;
+}
+
+.block-1 {
+   min-width: 692px;
+   margin-bottom: 42px;
+}
+
+.conference {
+   margin: 5px 0 24px;
+   width: 692px;
+   }
+
+.block-1 h2 {
+   margin-bottom: 3px;
+   text-transform: capitalize;
+   color: #37393F;
+   font-size: 30px;
+   }
+
+.title,
+.sub-title,
+.block-4 h3,
+.block-4 h4 {
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   line-height: 1.27;
+   }
+
+.sub-title {
+   color: #6B77E5;
+   font-size: 20px;
+   margin-bottom: 12px;
+}
+
+.block-2 {
+   margin-bottom: 40px;
+}
+.block-3 {
+   width: 692px;
+   }
+
+.note-block {
+   width: 347px;
+   display: inline-block;
+   padding: 2px 16px 3px 0px;
+   }
+
+.note {
+   width: 331px;
+   max-width: 331px;
+   }
+
+.block-4 {
+   max-width: 332px;
+   display: inline-block;
+   vertical-align: top;
+   padding-left: 13px;
+   }
+
+.block-4 h3 {
+   color: #37393F;
+   font-size: 25px;
+   margin-bottom: 15px;
+   width: 156px;
+}
+
+.block-4 h4 {
+   color: #40DDB6;
+   font-size: 20px;
+   margin-bottom: 21px;
+}
+
+.text {
+text-align: justify;
+padding-bottom: 35px;
+}
+
+.block-4 ul {
+   max-width: 313px;
+}
+
+ /* blok 2 */
+
+.model-2 {
+   width: 1169px;
+   margin: 0 auto;
+   font-size: 0;
+}
+.block-5 h3 {
+   color: #D06B00;
+   font-size: 28px;
+   padding: 13px 0 21px;
+   text-transform: uppercase;
+   width: 183px;
+}
+
+.block-5 h2 {
+color: #0E333D;
+font-size: 59px;
+font-family: "DM Serif Text", sans-serif;
+font-weight: 400;
+line-height: 1.46;
+padding-bottom: 25px;
+width: 526px;
+text-transform: capitalize;
+
+}
+.block-5 p {
+color: #474747;
+font-size: 20px;
+line-height: 1.8;
+}
+
+.block-5 {
+   width: 563px;
+   display: inline-block;
+   margin-right:38px;
+}
+
+.block-6 {
+   max-width: 568px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 0;
+}
+
+.note-1 {
+   margin-right: 22px;
+
+}
+
+
+
+
