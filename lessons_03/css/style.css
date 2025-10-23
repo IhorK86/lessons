@@ -1,0 +1,41 @@
+@import url("reset.css");
+
+h1 {
+    color: aquamarine;
+}
+div.text {
+    color: blueviolet;
+}
+.link {
+    color: blue;
+}
+.block {
+    color: red;
+}
+#img {
+    color: yellowgreen;
+}
+[class*="sub"] {
+    color: white;
+}
+.block a {
+    color: brown;
+}
+.stat>p {
+    color: antiquewhite;
+}
+.relig p {
+    color: beige;
+}
+.block .list {
+    color: aqua;
+}
+.time ~ h3 {
+    color: salmon;
+}
+.image + ol {
+    color: sandybrown;
+}
+.sub * {
+    color: yellow;
+}
