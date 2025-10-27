@@ -1,0 +1,58 @@
+@import url("fonts/fonts.css");
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate%20Crisis:wght@400&display=swap');
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+.title {
+    font-family: "Praysire", "Times New Roman", serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #008000;
+    text-transform: uppercase;
+}
+.list {
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    color: rgba(127, 255, 212, 0.5);
+}
+h4 {
+    font-family: "Arima", sans-serif;
+    font-size: 18px;
+    font-style: oblique;
+    font-weight: 600;
+    color: brown;
+}
+
+div.text {
+    font-family: "Climate Crisis", sans-serif;
+    font-size: 20px;
+    color: beige;
+    text-align: center;
+}
+.block-1 {
+    text-align: justify;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    text-decoration-thickness: 3px;
+}
+.block-2 {
+    font-family: "Arima", sans-serif;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 5px #008000;
+}
+div.block-4 {
+    text-transform: lowercase;
+    line-height: 1.5;
+    letter-spacing: 1.4px;
+}
+.block-5 {
+    font-family: "Lato", sans-serif;
+    white-space: nowrap;
+}
+.block-6 {
+    word-spacing: 20px;
+    color: blue;
+}
